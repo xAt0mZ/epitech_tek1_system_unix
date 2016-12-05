@@ -1,0 +1,6 @@
+[11] echo toto && ls && echo lol || pwd || which ls && ls &&
+[16] echo toto && ls && echo lol || pwd || which ls && ls ||
+[30] echo 	toto 	&& ls 	&& echo 		lol 			|| pwd || which ls && ls &&
+[35] 		echo 		toto 	&& 	ls 		&& 	echo 	lol 	|| 		pwd 	|| 	which	 ls 	&& ls 	||
+[49]      echo   toto    && ls   &&    echo lol || pwd   || which ls   && ls   &&
+[52]                            echo toto && ls && echo lol      || pwd || which ls && ls ||

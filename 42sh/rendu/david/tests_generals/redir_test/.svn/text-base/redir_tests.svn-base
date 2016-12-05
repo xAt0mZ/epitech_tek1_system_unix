@@ -1,0 +1,17 @@
+>
+<
+sort < mon-fichier > fichier-trie  
+cat fichier-trie
+sort < titi
+ls > toto
+cat toto
+sort	<	mon-fichier	 >	 fichier-trie		
+cat 	fichier-trie		 
+sort 	< 			 titi
+ls 	> 			 toto
+ cat 	toto  
+  sort  <   mon-fichier    >   fichier-trie 
+     cat      fichier-trie 
+ sort    <    titi
+        ls    >    toto  
+     cat   toto  

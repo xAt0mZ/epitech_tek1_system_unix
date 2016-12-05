@@ -1,0 +1,17 @@
+[0] >
+[1] <
+[2] sort < mon-fichier > fichier-trie  
+[3] cat fichier-trie
+[4] sort < titi
+[5] ls > toto
+[6] cat toto
+[7] sort	<	mon-fichier	 >	 fichier-trie		
+[8] cat 	fichier-trie		 
+[9] sort 	< 			 titi
+[10] ls 	> 			 toto
+[11]  cat 	toto  
+[12]   sort  <   mon-fichier    >   fichier-trie 
+[13]      cat      fichier-trie 
+[14]  sort    <    titi
+[15]         ls    >    toto  
+[16]      cat   toto  

@@ -1,0 +1,55 @@
+;
+;;;
+ls ;
+echo ; ls ; echo titi ; ls && pwd || which ls || locate sh && pwd ; echo mdr
+echo ok; ;
+echo ok ;;
+;echo titi; ls 
+echo toto
+echo ; ls ;
+&&
+&&&&&&&&&&&&
+echo toto && ls && echo lol || pwd || which ls && ls &&
+echo toto && ls && echo lol || pwd || which ls && ls &&&&
+echo toto && ls && echo lol || pwd || which ls && ls && &&
+||
+||||||||||||||||
+echo toto && ls && echo lol || pwd || which ls && ls ||
+echo toto && ls && echo lol || pwd || which ls && ls ||||
+echo toto && ls && echo lol || pwd || which ls && ls || || ||
+     ;	  
+     ;    ;   ;	
+ls   	  ;
+		echo 	  ; ls	; echo	titi	; ls && pwd	||	which ls || locate sh && pwd ;	 echo mdr
+echo ok	  ;  ;
+echo ok	     ;;
+     ;echo titi	; ls
+echo toto
+echo	; ls		;
+	&&				
+	&&	&&	&&	&&			&&			&&
+echo 	toto 	&& ls 	&& echo 		lol 			|| pwd || which ls && ls &&
+		echo 	toto 	&& ls && echo lol 			|| 			pwd 		||		 which 	ls	 && 			ls 			&&&& 
+		echo 	toto 	&&    ls      && 			echo 			lol 		|| pwd || which ls && ls && &&
+	||	
+		||	||	||	||	||	||	||	||
+		echo 		toto 	&& 	ls 		&& 	echo 	lol 	|| 		pwd 	|| 	which	 ls 	&& ls 	||
+				echo toto	 && 	ls 	&& 		echo 	lol || 	pwd 	|| 		which ls && ls ||||
+				echo 		 	toto 	 && 	 	ls   	&& 		echo lol || 	pwd 		|| 		which ls 	&& ls 	||     ||  ||
+ ; 
+ ; ; ;
+  ls   ;
+ echo;ls;echotiti;ls&&pwd||which ls||locate sh&&pwd;echo mdr
+                   echo   ok ;  ;
+ echo     ok	 ; ;   
+ ;echo titi ; ls
+ echo  toto
+  echo    ; ls    ;
+  &&
+&&  && && && && &&  
+     echo   toto    && ls   &&    echo lol || pwd   || which ls   && ls   &&
+ echo toto      && ls    &&    echo lol    || pwd    || which ls    && ls    &&&&
+                               echo toto   &&   ls   &&    echo    lol    || pwd   || which ls   && ls   &&   &&
+                           echo toto && ls && echo lol      || pwd || which ls && ls ||
+echo toto && ls && echo       lol || pwd ||   which ls   && ls ||  ||     
+echo toto && ls && echo lol || pwd || which ls && ls    || ||   ||     

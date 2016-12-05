@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/assembla_project_42sh/!svn/ver/175/unit_tests/partie_obligatoire/redir_test
+END
+FAILED
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/assembla_project_42sh/!svn/ver/175/unit_tests/partie_obligatoire/redir_test/FAILED
+END
+redir_tests
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/assembla_project_42sh/!svn/ver/174/unit_tests/partie_obligatoire/redir_test/redir_tests
+END
+SUCCEED
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/assembla_project_42sh/!svn/ver/175/unit_tests/partie_obligatoire/redir_test/SUCCEED
+END

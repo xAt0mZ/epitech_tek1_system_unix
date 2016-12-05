@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/assembla_project_42sh/!svn/ver/175/unit_tests/partie_obligatoire/separateur_test
+END
+FAILED
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/assembla_project_42sh/!svn/ver/175/unit_tests/partie_obligatoire/separateur_test/FAILED
+END
+SUCCEED
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/assembla_project_42sh/!svn/ver/175/unit_tests/partie_obligatoire/separateur_test/SUCCEED
+END
+separateur_tests
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/assembla_project_42sh/!svn/ver/174/unit_tests/partie_obligatoire/separateur_test/separateur_tests
+END

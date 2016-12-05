@@ -1,0 +1,49 @@
+echo toto
+echo titi
+echo -e "lool\\n"
+echo -E "lool\\n"
+echo -n "lool\\n"
+ echo echo
+echo "" "" "" "" "" "  toto"
+echo "" "" "" "" "" "  \\ntoto\\n"
+echo -e "" "" "" "" "" "  \\ntoto\\n"
+     	echo  	    toto  
+	echo 		    titi	
+echo -e "lool\\n"	    
+echo -E "lool\\n"	    
+echo 			    -n				"lool\\n"	    
+ echo 
+      echo ""	 ""	""	""	"" "  toto"	
+      	   echo "" "" "" "" "" "  \\ntoto\\n"
+echo 	   	-e    ""       "" "	" ""	"" "  \\ntoto\\n"
+echo toto
+echo   titi  
+echo   -e   "lool\\n"
+    echo   -E   "lool\\n"
+   echo -n  "lool\\n"  
+  echo     
+echo ""  ""   ""   ""   ""  "   toto"  
+   echo "" "" "" "" ""   "  \\ntoto\\n"
+   echo       -e  ""   ""   ""  ""    ""    "  \\ntoto\\n" 
+
+cd
+pwd
+cd /home
+pwd
+cd ..
+pwd
+cd /home/kiinder/Documents/
+echo ${PWD}
+cd -
+pwd
+cd -
+pwd
+cd -
+pwd
+cd -L /home/kiinder/Documents/
+pwd
+echo ${PWD}
+cd -P /home/kiinder/Documents/
+echo ${PWD}
+pwd
+

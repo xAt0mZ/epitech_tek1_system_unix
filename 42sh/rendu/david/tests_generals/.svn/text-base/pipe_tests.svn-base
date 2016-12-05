@@ -1,0 +1,58 @@
+|
+|||
+ls | cat -e
+ls | cat -e | cat -e | cat -e
+ls |
+ls | ls | ls | ls | ls | ls | ls | ls
+|||||||||||||||||||||||||||
+ls | more
+ls | cat -e | more
+|||||ls ||| ls
+ls
+ls | grep a.out | cat -e
+ls | grep a.out | cat -e | cat -e
+ls | grep a.out | cat -e | cat -e | grep lol
+ls | grep a.out | cat -e | cat -e | grep lol | cat -w
+ls | grep a.out | cat -e | cat -e | grep lol | cat -e
+ls | grep a.out | cat -e | cat -e | grep a.out| cat -e
+ls | cd /home/ | which ls | locate lol | cat -e | cat -e | echo ttit | echo lol | cat -e | locate lol
+ls | cd /home/ | which ls | locate lol | cat -e | cat -e | echo ttit | echo lol | cat -e | locate 42
+ls | cd /home/ | which ls | locate lol | cat -e | cat -e | echo ttit | echo lol | cat -e | locate 42sh
+                            |
+|                    |                                              |          
+              ls             |        cat -e                             
+            ls | cat -e             |                   cat -e              |                  cat -e
+                ls |
+ls                       | ls	| ls | ls                    | ls                     | ls | ls | ls
+                  |||                      |   |  ||            ||      | |             | | | | || | | || | || | |     |
+      ls      |         more
+ls | cat -e |                                              more 
+ |||||                  ls |  ||    ls   
+ls   | grep a.out               | cat -e         
+ls    | grep a.out                 | cat -e                     | cat -e
+   ls | grep a.out     | cat -e                      | cat -e | grep lol
+ls     | grep      a.out     | cat -e | cat -e | grep lol | cat -w
+                                       ls | grep a.out | cat -e | cat -e | grep lol | cat -e
+ls | grep a.out | cat -e | cat -e | grep a.out| cat -e            
+ls |cd /home/|which ls|locate lol|cat -e|cat -e|echo ttit|echo lol|cat -e|locate lol
+ls |cd /home/|         which ls      | locate lol | cat -e | cat -e |               echo ttit |         echo lol  |     cat -e     | locate 42
+ls                     |cd /home/|which ls|locate lol|cat -e |  cat -e        |                  echo ttit |      echo lol       |      cat -e      |       locate 42sh
+ |
+		|		|	| 
+ls 		| 		cat -e
+ls 		| cat -e 			| cat -e | cat -e
+		ls 		|
+ls 		| ls				| ls 	| ls | ls | ls | ls | ls
+|		| |				||	| ||   || | |  ||     |	|	|	|	||	|	| || |  ||
+ls |		  				 more
+ls 						 | 						 cat -e 					 | more
+||						 						 |||ls |					 || ls
+ls | grep a.out | cat 										       -e
+ls | grep a.out | 										       cat -e 									       | cat -e
+ls | grep a.out 										       | cat -e | cat -e   								       | grep lol
+ls   	  											       | grep a.out | cat -e | cat -e | grep lol |							        cat -w
+ls | grep a.out | cat -e | 									       	 cat -e | grep lol 							       | cat -e
+ls | grep a.out       	 | cat -e 										 | cat -e | grep a.out| cat -e
+ls | cd /home/ | which ls  |   											 locate lol | cat -e | cat -e | echo ttit | echo lol | cat -e | locate lol
+ls | cd /home/ | which ls  | locate lol 										 | cat -e | cat -e 							 | echo ttit 						 | echo lol 				 | cat -e 			 | locate 42
+   ls | cd /home/ 	 |       which ls    	    | 											 locate lol | cat -e | cat -e | echo ttit | echo lol | cat -e | locate 42sh

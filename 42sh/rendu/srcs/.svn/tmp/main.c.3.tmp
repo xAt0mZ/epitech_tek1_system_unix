@@ -1,0 +1,54 @@
+/*
+** main.c for 42sh in /home/garner_p/Workplace/Systeme_Unix/42sh-2017-baron_l
+**
+** Made by Garnero Philip
+** Login   <garner_p@epitech.net>
+**
+** Started on  Wed May 22 21:42:49 2013 Garnero Philip
+** Last update Sun May 26 15:44:29 2013 louis-philippe baron
+*/
+
+
+#include	"h42.h"
+#include	"edt.h"
+
+static void	get_sigint()
+{
+  my_putstr("\n42sh_> ");
+}
+
+int		main(int ac, char **av, char **env)
+{
+  t_glob	glob;
+  t_caps	*caps;
+
+
+  if ((caps = init_caps()) == NULL)/*recup TERM*/
+    return (ERROR);
+  glob.retval = 0;
+  if (ac != 1 && av[0])
+    return (error_int("Usage : ./42sh\n"));
+  signal(SIGINT, get_sigint);
+  if (env[0])
+    glob.hist_id = init_histo(&glob);
+  if (get_env(env, &(glob).env) == ERROR)
+    return (ERROR);
+  while (glob.retval == 0)
+    {
+      if (env[0] && edition_line(&glob, caps) == ERROR)
+	return (ERROR);
+      else
+	{
+	  my_putstr("42sh_> ");
+	  if ((glob.input = get_next_line(0)) == NULL)
+	    return (0);
+	}
+      if (mysh(&glob) == ERROR)
+	return (ERROR);
+    }
+  if (env[0])
+    write_hist(&glob);
+  if (glob.retval == EXIT)
+    return (glob.exit);
+  return (glob.retval);
+}

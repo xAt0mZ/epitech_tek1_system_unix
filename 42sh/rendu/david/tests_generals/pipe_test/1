@@ -1,0 +1,6 @@
+ls |cd /home/|         which ls      | locate lol | cat -e | cat -e |               echo ttit |         echo lol  |     cat -e     | locate 42
+ls                     |cd /home/|which ls|locate lol|cat -e |  cat -e        |                  echo ttit |      echo lol       |      cat -e      |       locate 42sh
+ |
+                |               |       |
+ls              |               cat -e
+ls              | cat -e                        | cat -e | cat -e

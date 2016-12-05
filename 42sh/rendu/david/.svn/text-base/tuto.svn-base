@@ -1,0 +1,28 @@
+
+Yooo !!!
+
+Donc chaque repertoire contient chaque test , par exemple le test des pipes se fait sur partie_obligatoire/pipe_test/pipe_tests .
+Une fois que le test est fini il te cree un ficher FAILED et SUCCEED dans le repertoire du test.
+Donc apres avoir fait :
+
+     ./moulinette partie_obligatoire/pipe_test/pipe_tests , 
+
+pour afficher les tests qui ont fait FAILED tu fait :
+
+     cat partie_obligatoire/pipe_test/FAILED
+
+les test qui ont SUCCEED :
+ 
+	cat partie_obligatoire/pipe_test/SUCCEED
+ 
+Tu peux editer n'importe quel ficher sa fonctionne nikel , dans le cas ou tu te cree un ficher test a toi du style toto
+Le ficher FAILED et SUCCEED sont crees dans le repertoire courant.
+
+Envoi un msg si tu need help ;)
+
+
+ligne 45 tu remplace bash par tcsh et sa te fait  tes test sur tcsh ;) installe tcsh d'abord
+
+
+Elle fonctionne nikel donc si un test FAILED c'est pas la moulinette c'est le 42,  envoi moi sms si ta un soucis ;)
+
